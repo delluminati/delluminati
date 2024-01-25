@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Stepan
+- 👀 I’m interested in Data Science
+- 📫 How to reach me https://t.me/lun_si
